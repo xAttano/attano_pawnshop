@@ -4,6 +4,8 @@ A lightweight and fully configurable pawn shop script for ESX-based FiveM server
 
 attano_pawnshop gives players a realistic way to sell valuables, stolen goods, crafting materials, and other configurable items through an immersive pawn shop system designed for roleplay and economy servers.
 
+Need support? Join my discord. https://discord.gg/6SCshsRxch
+
 ---
 
 ## Features
