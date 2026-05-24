@@ -25,6 +25,7 @@ Need support? Join my discord. https://discord.gg/6SCshsRxch
 ## Dependencies
 
 - ESX Framework
+- ox_target
 - ox_inventory *(recommended)*
 - ox_lib *(if required by your version)*
 
